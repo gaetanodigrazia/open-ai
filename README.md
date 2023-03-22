@@ -11,3 +11,8 @@ simply paste the value of the key in the application.yml file;
 * Start it as Spring Boot application;
 * Now can query ChatGPT at http://localhost:8080/
 
+## Account balance
+You can check your cash balance (usually you should have 18$ free trial) at https://platform.openai.com/account/usage
+
+## Other links
+* https://platform.openai.com/docs/models
