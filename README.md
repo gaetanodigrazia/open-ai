@@ -14,5 +14,7 @@ simply paste the value of the key in the application.yml file;
 ## Account balance
 You can check your cash balance (usually you should have 18$ free trial) at https://platform.openai.com/account/usage
 
+## Sample Request
+![sample_request.png](./src/main/resources/img/sample_request.png)
 ## Other links
 * https://platform.openai.com/docs/models
